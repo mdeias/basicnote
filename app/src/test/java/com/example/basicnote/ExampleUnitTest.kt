@@ -1,4 +1,4 @@
-package com.example.bodyforbasicnote
+package com.example.basicnote
 
 import org.junit.Test
 

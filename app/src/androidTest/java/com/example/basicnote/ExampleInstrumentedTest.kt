@@ -1,4 +1,4 @@
-package com.example.bodyforbasicnote
+package com.example.basicnote
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
